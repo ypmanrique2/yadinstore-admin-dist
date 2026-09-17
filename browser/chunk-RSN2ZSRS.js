@@ -1,0 +1,1 @@
+import{c as t}from"./chunk-UR5UNLRQ.js";var r,n=t(()=>{"use strict";r=(e=>(e.PENDING="PENDING",e.PAID="PAID",e.PROCESSING="PROCESSING",e.SHIPPED="SHIPPED",e.DELIVERED="DELIVERED",e.CANCELLED="CANCELLED",e.REFUNDED="REFUNDED",e))(r||{})});export{r as a,n as b};

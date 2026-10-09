@@ -1,0 +1,1 @@
+import{c as r}from"./chunk-UR5UNLRQ.js";function u(e,i,t){let n={action:e,resourceType:i,resourceRef:t?t.substring(0,8):null,at:new Date().toISOString()};console.warn("[security-audit]",n)}var s=r(()=>{"use strict"});export{u as a,s as b};

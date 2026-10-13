@@ -1,0 +1,1 @@
+import{Uc as n,Vc as i}from"./chunk-IE6DB5P2.js";import{c as e}from"./chunk-UR5UNLRQ.js";function f(r){return r?/^https?:\/\//.test(r)?r:`${new URL(n.apiUrl).origin}${r}`:""}var t=e(()=>{"use strict";i()});export{f as a,t as b};
